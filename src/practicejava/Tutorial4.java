@@ -1,6 +1,6 @@
-package pacticejava;
+package practicejava;
 
-public class tutorial4 {
+public class Tutorial4 {
     //Write a Java program to print the results of the following operations.
     //Test Data:
     //a. -5 + 8 * 6

@@ -1,7 +1,7 @@
-package pacticejava;
+package practicejava;
 import java.util.Scanner;
 
-public class tutorial5 {
+public class Tutorial5 {
 //    Write a Java program that takes two numbers as input and displays the product of two numbers.
 //    Test Data:
 //    Input first number: 25

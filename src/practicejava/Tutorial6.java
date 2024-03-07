@@ -1,6 +1,6 @@
-package pacticejava;
+package practicejava;
 
-public class tutorial6 {
+public class Tutorial6 {
         //Write a Java program to print the area and perimeter of a circle.
         //Test Data:
         //Radius = 7.5

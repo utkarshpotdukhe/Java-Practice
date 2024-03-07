@@ -1,6 +1,6 @@
-package pacticejava;
+package practicejava;
 
-public class tutorial3 {
+public class Tutorial3 {
     //Write a Java program to divide two numbers and print them on the screen
     public static void main(String[] args) {
         int result = 50/3;
