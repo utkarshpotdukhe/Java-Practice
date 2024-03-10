@@ -4,8 +4,8 @@ public class Tutorial9 {
     // Write a Java program to make such a pattern like a pyramid with a number that repeats in the same row.
 
     public static void main(String[] args) {
-        int n = 5; // You should specify the value of n
-        int s = n + 4 - 1; // Initialize the value of s
+        int n = 5;
+        int s = n + 4 - 1;
         int i, j, x;
 
         for (i = 1; i <= n; i++) {
